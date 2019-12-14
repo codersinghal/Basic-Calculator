@@ -7,7 +7,7 @@ package calculator_app;
 
 /**
  *
- * @author user
+ * @author Harshit
  */
 public class calculator extends javax.swing.JFrame {
 
