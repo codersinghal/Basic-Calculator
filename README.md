@@ -1,2 +1,2 @@
 # codersinghal.github.io
-Calculator using core java
+Basic Calculator using core java.
